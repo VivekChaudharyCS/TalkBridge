@@ -39,6 +39,7 @@ talkbridge/
 ```bash
 cd backend
 npm install
+# make sure to create .env in backend
 # .env already has your Sarvam API key — confirm it's correct
 npm run dev
 # Server starts on http://localhost:4000
